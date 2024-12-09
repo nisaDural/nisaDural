@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nisa Dural</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer | IT Student At Yeditepe University</h3>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on developing an AI application with Flutter.
 
 - 📫 How to reach me **nisadural61@gmail.com**
 
